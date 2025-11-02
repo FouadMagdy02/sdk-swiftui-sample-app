@@ -1,0 +1,6 @@
+framework module SynapseUI {
+  umbrella header "SynapseUI.h"
+  export *
+
+  module * { export * }
+}

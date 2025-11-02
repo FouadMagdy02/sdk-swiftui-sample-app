@@ -1,0 +1,275 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target arm64-apple-ios17.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SynapseUI
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+import DeveloperToolsSupport
+import Foundation
+import Swift
+import SwiftUI
+@_exported import SynapseUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+
+@_Concurrency.MainActor @preconcurrency public struct SyapseRadioButton : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public var checked: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency public let clickable: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency public let onClick: (Swift.Bool) -> Swift.Void
+  @_Concurrency.MainActor @preconcurrency public init(checked: Swift.Bool, clickable: Swift.Bool, onClick: @escaping (Swift.Bool) -> Swift.Void)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s9SynapseUI17SyapseRadioButtonV4bodyQrvp", 0) __
+}
+
+@_Concurrency.MainActor @preconcurrency public struct SynapseButton : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public let label: SwiftUICore.LocalizedStringKey
+  @_Concurrency.MainActor @preconcurrency public let action: () -> Swift.Void
+  @_Concurrency.MainActor @preconcurrency public let variant: SynapseUI.BUTTON_VARIANT
+  @_Concurrency.MainActor @preconcurrency public let buttonWidth: CoreFoundation.CGFloat?
+  @SwiftUICore.Binding @_projectedValueProperty($disabled) @_Concurrency.MainActor @preconcurrency public var disabled: Swift.Bool {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    nonmutating set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    nonmutating _modify
+  }
+  @_Concurrency.MainActor @preconcurrency public var $disabled: SwiftUICore.Binding<Swift.Bool> {
+    get
+  }
+  @SwiftUICore.Binding @_projectedValueProperty($loading) @_Concurrency.MainActor @preconcurrency public var loading: Swift.Bool {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    nonmutating set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    nonmutating _modify
+  }
+  @_Concurrency.MainActor @preconcurrency public var $loading: SwiftUICore.Binding<Swift.Bool> {
+    get
+  }
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency public init(label: SwiftUICore.LocalizedStringKey, action: @escaping () -> Swift.Void, variant: SynapseUI.BUTTON_VARIANT, buttonWidth: CoreFoundation.CGFloat? = .infinity, disabled: SwiftUICore.Binding<Swift.Bool> = .constant(false), loading: SwiftUICore.Binding<Swift.Bool> = .constant(false))
+  #endif
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s9SynapseUI0A6ButtonV4bodyQrvp", 0) __
+}
+
+@_Concurrency.MainActor @preconcurrency public struct SynapseInput : SwiftUICore.View {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency public init(value: SwiftUICore.Binding<Swift.String> = .constant(""), placeHolder: SwiftUICore.LocalizedStringKey = "", inputHeaderKey: SwiftUICore.LocalizedStringKey = "", secured: SwiftUICore.Binding<Swift.Bool> = .constant(false), error: SwiftUICore.Binding<Swift.Bool> = .constant(false), disabled: Swift.Bool = false, left: SwiftUICore.AnyView? = nil, right: SwiftUICore.AnyView? = nil, headerRight: SwiftUICore.AnyView? = nil)
+  #endif
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s9SynapseUI0A5InputV4bodyQrvp", 0) __
+}
+@_Concurrency.MainActor @preconcurrency public struct SynapseTextBold : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public let label: SwiftUICore.LocalizedStringKey
+  @_Concurrency.MainActor @preconcurrency public let size: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency public init(label: SwiftUICore.LocalizedStringKey, size: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s9SynapseUI0A8TextBoldV4bodyQrvp", 0) __
+}
+
+@_Concurrency.MainActor @preconcurrency public struct SynapseTextRegular : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public let label: SwiftUICore.LocalizedStringKey
+  @_Concurrency.MainActor @preconcurrency public let size: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency public init(label: SwiftUICore.LocalizedStringKey, size: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s9SynapseUI0A11TextRegularV4bodyQrvp", 0) __
+}
+
+public struct DoxterColorPalletes {
+  public static var baseBackground1: SwiftUICore.Color
+  public static var baseBackground2: SwiftUICore.Color
+  public static var baseBackground3: SwiftUICore.Color
+  public static var baseBorder1: SwiftUICore.Color
+  public static var baseText1: SwiftUICore.Color
+  public static var baseText2: SwiftUICore.Color
+  public static var baseText3: SwiftUICore.Color
+  public static var dangerousBackgroundDefault: SwiftUICore.Color
+  public static var dangerousBorderDefault: SwiftUICore.Color
+  public static var dangerousTextDefault: SwiftUICore.Color
+  public static var disabledBackgroundDefault: SwiftUICore.Color
+  public static var disabledBorderDefault: SwiftUICore.Color
+  public static var disabledTextDefault: SwiftUICore.Color
+  public static var focusBackgroundDefault: SwiftUICore.Color
+  public static var focusBorderDefault: SwiftUICore.Color
+  public static var forgetPassword: SwiftUICore.Color
+  public static var grayBackground1: SwiftUICore.Color
+  public static var grayBackground2: SwiftUICore.Color
+  public static var grayBackground3: SwiftUICore.Color
+  public static var grayscaleText2light: SwiftUICore.Color
+  public static var greenBackground2: SwiftUICore.Color
+  public static var greenText2: SwiftUICore.Color
+  public static var negativeBackgroundDefault: SwiftUICore.Color
+  public static var negativeBorderDefault: SwiftUICore.Color
+  public static var negativeIconDefault: SwiftUICore.Color
+  public static var negativeTextDefault: SwiftUICore.Color
+  public static var orangeBackground2: SwiftUICore.Color
+  public static var orangeText2: SwiftUICore.Color
+  public static var positiveBackgroundDefault: SwiftUICore.Color
+  public static var positiveIconDefault: SwiftUICore.Color
+  public static var primaryBackgroundDefault: SwiftUICore.Color
+  public static var primaryBorderDefault: SwiftUICore.Color
+  public static var primaryInvertedDefault: SwiftUICore.Color
+  public static var primaryTextDefault: SwiftUICore.Color
+  public static var redBackground2: SwiftUICore.Color
+  public static var redText2: SwiftUICore.Color
+  public static var secondaryBackgroundDefault: SwiftUICore.Color
+  public static var secondaryBorderDefault: SwiftUICore.Color
+  public static var secondaryIconDefault: SwiftUICore.Color
+  public static var secondaryTextDefault: SwiftUICore.Color
+  public static var selectedBackgroundPrimary: SwiftUICore.Color
+  public static var selectedIconPrimary: SwiftUICore.Color
+  public static var selectedIconSecondary: SwiftUICore.Color
+  public static var selectedTextPrimary: SwiftUICore.Color
+  public static var tertiaryBackgroundDefault: SwiftUICore.Color
+  public static var dimmedBg: SwiftUICore.Color
+  public static var secondaryTextHover: SwiftUICore.Color
+  public static var tertiaryBackgroundActive: SwiftUICore.Color
+  public static var selectedBorderPrimary1: SwiftUICore.Color
+  public static var selectedTextSecondary: SwiftUICore.Color
+  public static var primaryInverseBackgroundDefault: SwiftUICore.Color
+  public static var captureBtn: SwiftUICore.Color
+}
+public func loadSynapseUIFonts()
+public struct DoxterFonts {
+  public static func bold(size: CoreFoundation.CGFloat) -> SwiftUICore.Font
+  public static func regular(size: CoreFoundation.CGFloat) -> SwiftUICore.Font
+}
+public struct UIDesign {
+  public static func h(_ value: CoreFoundation.CGFloat) -> CoreFoundation.CGFloat
+  public static func w(_ value: CoreFoundation.CGFloat) -> CoreFoundation.CGFloat
+  public struct Constants {
+    public static var footerHeight: CoreFoundation.CGFloat {
+      get
+    }
+  }
+  public struct Spacing {
+    public struct Vertical {
+      public static var p4: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p8: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p12: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p16: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p20: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p24: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p28: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p32: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p36: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p40: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p44: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p48: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p52: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p56: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p60: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p64: CoreFoundation.CGFloat {
+        get
+      }
+    }
+    public struct Horizontal {
+      public static var p4: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p8: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p12: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p16: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p20: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p24: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p28: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p32: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p36: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p40: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p44: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p48: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p52: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p56: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p60: CoreFoundation.CGFloat {
+        get
+      }
+      public static var p64: CoreFoundation.CGFloat {
+        get
+      }
+    }
+  }
+  public static func printInfo()
+}
+public enum BUTTON_VARIANT {
+  case CONTAINED
+  case OUTLINED
+  public static func == (a: SynapseUI.BUTTON_VARIANT, b: SynapseUI.BUTTON_VARIANT) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension SynapseUI.SyapseRadioButton : Swift.Sendable {}
+extension SynapseUI.SynapseButton : Swift.Sendable {}
+extension SynapseUI.SynapseInput : Swift.Sendable {}
+extension SynapseUI.SynapseTextBold : Swift.Sendable {}
+extension SynapseUI.SynapseTextRegular : Swift.Sendable {}
+extension SynapseUI.BUTTON_VARIANT : Swift.Equatable {}
+extension SynapseUI.BUTTON_VARIANT : Swift.Hashable {}

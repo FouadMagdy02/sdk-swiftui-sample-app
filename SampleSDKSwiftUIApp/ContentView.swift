@@ -6,14 +6,20 @@
 //
 
 import SwiftUI
+import DoxterEkycSDK
 
 struct ContentView: View {
+    @State var isPresenting: Bool = false
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            DoxterEKYCSdkButton(isPresenting: $isPresenting, sdkConfigData: .init(apiKey: "", endUser: "mada", region: Region.Europe)) { result in
+                
+            } label: {
+                Text("Initialize SDK")
+            } action: {
+                isPresenting.toggle()
+            }
+
         }
         .padding()
     }

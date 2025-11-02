@@ -1,0 +1,315 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target x86_64-apple-ios17.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name DoxterEkycSDK
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+import AVFoundation
+import CoreText
+import DeveloperToolsSupport
+@_exported import DoxterEkycSDK
+import Foundation
+import Photos
+import Swift
+import SwiftUI
+import SynapseUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+
+
+
+
+
+
+
+
+
+
+
+
+public class DoxterEKYC {
+  public init(sdkConfigData: DoxterEkycSDK.DoxterEkycSDKConfiguration)
+  public func presentDoxterSDK(from presentingViewController: UIKit.UIViewController, onResult: @escaping (_ result: DoxterEkycSDK.SDKResult) -> Swift.Void)
+  @objc deinit
+}
+@_Concurrency.MainActor @preconcurrency public struct DoxterEKYCSdkButton<Label> : SwiftUICore.View where Label : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(isPresenting: SwiftUICore.Binding<Swift.Bool>, sdkConfigData: DoxterEkycSDK.DoxterEkycSDKConfiguration, onResult: @escaping (_ result: DoxterEkycSDK.SDKResult) -> Swift.Void, @SwiftUICore.ViewBuilder label: @escaping () -> Label, action: @escaping () -> Swift.Void)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s13DoxterEkycSDK0A13EKYCSdkButtonV4bodyQrvp", 0) __<Label>
+}
+
+extension Foundation.Data {
+  public mutating func append(_ string: Swift.String)
+}
+@_hasMissingDesignatedInitializers public class DoxterBundle {
+  public static let shared: DoxterEkycSDK.DoxterBundle
+  final public let bundle: Foundation.Bundle
+  public func localizedString(for key: Swift.String, comment: Swift.String = "") -> Swift.String
+  @objc deinit
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public struct FrontSideData : Swift.Codable {
+  public let area: Swift.String
+  public let street: Swift.String
+  public let fullName: Swift.String
+  public let birthDate: Swift.String
+  public let firstName: Swift.String
+  public let governorate: Swift.String
+  public let nationalId: Swift.String
+  public let serialNumber: Swift.String
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct DetectedDocument : Swift.Codable {
+  public let code: Swift.Int
+  public let name: Swift.String
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Fraud : Swift.Codable {
+  public let passed: Swift.Bool
+  public let probability: Swift.Double
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct FrontSide : Swift.Codable {
+  public let data: DoxterEkycSDK.FrontSideData
+  public let detectedDocument: DoxterEkycSDK.DetectedDocument
+  public let fraud: DoxterEkycSDK.Fraud
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct BackSideData : Swift.Codable {
+  public let gender: Swift.String
+  public let religion: Swift.String
+  public let expiryDate: Swift.String
+  public let nationalId: Swift.String
+  public let spouseName: Swift.String
+  public let profession1: Swift.String?
+  public let profession2: Swift.String?
+  public let releaseDate: Swift.String
+  public let maritalStatus: Swift.String
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct BackSide : Swift.Codable {
+  public let data: DoxterEkycSDK.BackSideData
+  public let detectedDocument: DoxterEkycSDK.DetectedDocument
+  public let fraud: DoxterEkycSDK.Fraud
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct AMLResult : Swift.Codable {
+  public let name: Swift.String?
+  public let nid: Swift.String?
+  public let birthDate: Swift.String?
+  public let matchingScore: Swift.Int?
+  public let passed: Swift.Bool
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct OCRResponse : Swift.Codable {
+  public let frontSide: DoxterEkycSDK.FrontSide
+  public let backSide: DoxterEkycSDK.BackSide
+  public let documentSidesMatch: Swift.Bool
+  public let amlResult: DoxterEkycSDK.AMLResult
+  public let passed: Swift.Bool
+  public let sourceEndpoint: Swift.String
+  public let endUser: Swift.String
+  public let sessionUid: Swift.String
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct LivenessResponse : Swift.Codable {
+  public let uid: Swift.String
+  public let createdAt: Swift.String
+  public let session: Swift.Int
+  public let sessionUid: Swift.String
+  public let finishedAt: Swift.String
+  public let idImage: Swift.String
+  public let faceImage: Swift.String
+  public let faceMatchScore: Swift.Double
+  public let livenessChallenges: [Swift.String]
+  public let livenessChallengesResults: [Swift.Bool]
+  public let completed: Swift.Bool
+  public let errorMessage: Swift.String?
+  public let livenessVerified: Swift.Bool
+  public let faceMatchingVerified: Swift.Bool
+  public let livenessChallengesStats: [Swift.String : Swift.Double]
+  public let sourceEndpoint: Swift.String
+  public let endUser: Swift.String
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct APIErrorResponse : Swift.Codable {
+  public let message: Swift.String
+  public let code: Swift.String
+  public let details: Swift.String
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public enum OCRResult {
+  case success(DoxterEkycSDK.OCRResponse)
+  case failed(DoxterEkycSDK.APIErrorResponse)
+}
+public enum livenessResult {
+  case verified(DoxterEkycSDK.LivenessResponse)
+  case unverified(DoxterEkycSDK.LivenessResponse)
+  case failed(DoxterEkycSDK.APIErrorResponse)
+}
+public struct SDKResult {
+  public var ocrResult: DoxterEkycSDK.OCRResult?
+  public var livenessResult: DoxterEkycSDK.livenessResult?
+  public var sessionUid: Swift.String?
+}
+public enum VerifyDocumentsRsponse {
+  case failure(response: DoxterEkycSDK.APIErrorResponse, sessionUid: Swift.String, trialsExceeded: Swift.Bool)
+  case succes(response: DoxterEkycSDK.OCRResponse, sessionUid: Swift.String, trialsExceeded: Swift.Bool)
+  case noTrials
+}
+public enum VerifyLivenessResponse {
+  case verified(DoxterEkycSDK.LivenessResponse, trialsExceeded: Swift.Bool)
+  case unverified(DoxterEkycSDK.LivenessResponse, trialsExceeded: Swift.Bool)
+  case failed(DoxterEkycSDK.APIErrorResponse, trialsExceeded: Swift.Bool)
+  case noTrials
+}
+public enum Region : Swift.Codable, Swift.Hashable {
+  case Egypt, Europe
+  public static func == (a: DoxterEkycSDK.Region, b: DoxterEkycSDK.Region) -> Swift.Bool
+  public func encode(to encoder: any Swift.Encoder) throws
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct DoxterEkycSDKJwtTokens : Swift.Codable {
+  public var access: Swift.String
+  public var refresh: Swift.String
+  public init(access: Swift.String, refresh: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct DoxterEkycJwtUtils {
+  public var tokens: DoxterEkycSDK.DoxterEkycSDKJwtTokens
+  public var onRefreshTokens: (DoxterEkycSDK.DoxterEkycSDKJwtTokens) -> Swift.Void
+  public init(tokens: DoxterEkycSDK.DoxterEkycSDKJwtTokens, onRefreshTokens: @escaping (DoxterEkycSDK.DoxterEkycSDKJwtTokens) -> Swift.Void)
+}
+public struct DoxterEkycSDKConfiguration {
+  public var apiKey: Swift.String
+  public var configurationUid: Swift.String?
+  public var endUser: Swift.String
+  public var region: DoxterEkycSDK.Region
+  public var baseUrl: Swift.String?
+  public var email: Swift.String?
+  public var phoneNumber: Swift.String?
+  public var jwtUtils: DoxterEkycSDK.DoxterEkycJwtUtils?
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(apiKey: Swift.String, configurationUid: Swift.String? = nil, endUser: Swift.String, region: DoxterEkycSDK.Region, baseUrl: Swift.String? = nil, email: Swift.String? = nil, phoneNumber: Swift.String? = nil, jwtUtils: DoxterEkycSDK.DoxterEkycJwtUtils? = nil)
+  #endif
+}
+public func loadCustomFont()
+public struct Claim {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var rawValue: Any? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var string: Swift.String? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var boolean: Swift.Bool? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var double: Swift.Double? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var integer: Swift.Int? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var date: Foundation.Date? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var array: [Swift.String]? {
+    get
+  }
+  #endif
+}
+public protocol JWT {
+  var header: [Swift.String : Any] { get }
+  var body: [Swift.String : Any] { get }
+  #if compiler(>=5.3) && $NonescapableTypes
+  var signature: Swift.String? { get }
+  #endif
+  var string: Swift.String { get }
+  #if compiler(>=5.3) && $NonescapableTypes
+  var expiresAt: Foundation.Date? { get }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  var issuer: Swift.String? { get }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  var subject: Swift.String? { get }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  var audience: [Swift.String]? { get }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  var issuedAt: Foundation.Date? { get }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  var notBefore: Foundation.Date? { get }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  var identifier: Swift.String? { get }
+  #endif
+  var expired: Swift.Bool { get }
+}
+extension DoxterEkycSDK.JWT {
+  public func claim(name: Swift.String) -> DoxterEkycSDK.Claim
+  public subscript(claim: Swift.String) -> DoxterEkycSDK.Claim {
+    get
+  }
+}
+
+
+extension DoxterEkycSDK.DoxterEKYCSdkButton : Swift.Sendable {}

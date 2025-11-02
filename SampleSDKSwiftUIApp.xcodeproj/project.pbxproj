@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8C5E4C692EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8C5E4C682EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		8C5E4C6B2EB7FE74000FD3A8 /* SynapseUI.xcframework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8C5E4C6A2EB7FE74000FD3A8 /* SynapseUI.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		8C5E4C472EB7FDAD000FD3A8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -23,10 +28,26 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		8C5E4C632EB7FDB7000FD3A8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 7;
+			files = (
+				8C5E4C6B2EB7FE74000FD3A8 /* SynapseUI.xcframework in CopyFiles */,
+				8C5E4C692EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		8C5E4C392EB7FDAC000FD3A8 /* SampleSDKSwiftUIApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleSDKSwiftUIApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C5E4C462EB7FDAD000FD3A8 /* SampleSDKSwiftUIAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleSDKSwiftUIAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C5E4C502EB7FDAD000FD3A8 /* SampleSDKSwiftUIAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleSDKSwiftUIAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C5E4C682EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = DoxterEkycSDK.xcframework; sourceTree = "<group>"; };
+		8C5E4C6A2EB7FE74000FD3A8 /* SynapseUI.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = SynapseUI.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +96,8 @@
 		8C5E4C302EB7FDAC000FD3A8 = {
 			isa = PBXGroup;
 			children = (
+				8C5E4C6A2EB7FE74000FD3A8 /* SynapseUI.xcframework */,
+				8C5E4C682EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework */,
 				8C5E4C3B2EB7FDAC000FD3A8 /* SampleSDKSwiftUIApp */,
 				8C5E4C492EB7FDAD000FD3A8 /* SampleSDKSwiftUIAppTests */,
 				8C5E4C532EB7FDAD000FD3A8 /* SampleSDKSwiftUIAppUITests */,
@@ -102,6 +125,7 @@
 				8C5E4C352EB7FDAC000FD3A8 /* Sources */,
 				8C5E4C362EB7FDAC000FD3A8 /* Frameworks */,
 				8C5E4C372EB7FDAC000FD3A8 /* Resources */,
+				8C5E4C632EB7FDB7000FD3A8 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -395,13 +419,16 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8794W577SM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -426,13 +453,16 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8794W577SM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

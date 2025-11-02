@@ -1,0 +1,6 @@
+framework module DoxterEkycSDK {
+  umbrella header "DoxterEkycSDK.h"
+  export *
+
+  module * { export * }
+}
