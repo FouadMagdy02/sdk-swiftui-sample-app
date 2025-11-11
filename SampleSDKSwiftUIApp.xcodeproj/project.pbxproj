@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8C5E4C692EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8C5E4C682EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		8C5E4C6B2EB7FE74000FD3A8 /* SynapseUI.xcframework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8C5E4C6A2EB7FE74000FD3A8 /* SynapseUI.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		8C5E4C702EB80435000FD3A8 /* DoxterEkycSDK.xcframework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8C5E4C6F2EB80435000FD3A8 /* DoxterEkycSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,8 +34,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 7;
 			files = (
-				8C5E4C6B2EB7FE74000FD3A8 /* SynapseUI.xcframework in CopyFiles */,
-				8C5E4C692EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework in CopyFiles */,
+				8C5E4C702EB80435000FD3A8 /* DoxterEkycSDK.xcframework in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -46,8 +44,7 @@
 		8C5E4C392EB7FDAC000FD3A8 /* SampleSDKSwiftUIApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleSDKSwiftUIApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C5E4C462EB7FDAD000FD3A8 /* SampleSDKSwiftUIAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleSDKSwiftUIAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C5E4C502EB7FDAD000FD3A8 /* SampleSDKSwiftUIAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleSDKSwiftUIAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8C5E4C682EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = DoxterEkycSDK.xcframework; sourceTree = "<group>"; };
-		8C5E4C6A2EB7FE74000FD3A8 /* SynapseUI.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = SynapseUI.xcframework; sourceTree = "<group>"; };
+		8C5E4C6F2EB80435000FD3A8 /* DoxterEkycSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = DoxterEkycSDK.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -96,8 +93,7 @@
 		8C5E4C302EB7FDAC000FD3A8 = {
 			isa = PBXGroup;
 			children = (
-				8C5E4C6A2EB7FE74000FD3A8 /* SynapseUI.xcframework */,
-				8C5E4C682EB7FE5B000FD3A8 /* DoxterEkycSDK.xcframework */,
+				8C5E4C6F2EB80435000FD3A8 /* DoxterEkycSDK.xcframework */,
 				8C5E4C3B2EB7FDAC000FD3A8 /* SampleSDKSwiftUIApp */,
 				8C5E4C492EB7FDAD000FD3A8 /* SampleSDKSwiftUIAppTests */,
 				8C5E4C532EB7FDAD000FD3A8 /* SampleSDKSwiftUIAppUITests */,

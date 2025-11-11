@@ -26,6 +26,20 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DoxterEkycSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DoxterEkycSDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -63,10 +77,23 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -90,10 +117,23 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -117,10 +157,13 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -134,10 +177,13 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -151,13 +197,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -165,64 +204,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
       },
       {
         "kind": "Import",
@@ -889,13 +870,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -906,13 +880,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -920,30 +887,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
       },
       {
         "kind": "Import",
@@ -967,13 +910,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -984,13 +920,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -998,30 +927,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
       },
       {
         "kind": "Import",
@@ -1045,13 +950,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1062,13 +960,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1076,30 +967,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
       },
       {
         "kind": "Import",
@@ -1123,13 +990,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1140,13 +1000,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1154,30 +1007,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
       },
       {
         "kind": "Import",
@@ -1201,13 +1030,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1218,13 +1040,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1232,30 +1047,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
       },
       {
         "kind": "Import",
@@ -1279,10 +1070,13 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -1296,17 +1090,13 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -1320,10 +1110,43 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "DoxterEkycSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -9556,13 +9379,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -9604,13 +9420,6 @@
       },
       {
         "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -9618,13 +9427,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "SynapseUI",
-        "printedName": "SynapseUI",
-        "declKind": "Import",
-        "moduleName": "DoxterEkycSDK"
       },
       {
         "kind": "Import",
@@ -10234,23 +10036,401 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 180,
+      "offset": 208,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 225,
+      "offset": 253,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 267,
+      "offset": 295,
       "length": 2,
       "value": "48"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 445,
+      "length": 17,
+      "value": "\"baseBackground1\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 526,
+      "length": 17,
+      "value": "\"baseBackground2\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 607,
+      "length": 17,
+      "value": "\"baseBackground3\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 684,
+      "length": 13,
+      "value": "\"baseBorder1\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 755,
+      "length": 11,
+      "value": "\"baseText1\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 824,
+      "length": 11,
+      "value": "\"baseText2\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 893,
+      "length": 11,
+      "value": "\"baseText3\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 979,
+      "length": 28,
+      "value": "\"dangerousBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1078,
+      "length": 24,
+      "value": "\"dangerousBorderDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1171,
+      "length": 22,
+      "value": "\"dangerousTextDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1267,
+      "length": 27,
+      "value": "\"disabledBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1364,
+      "length": 23,
+      "value": "\"disabledBorderDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1455,
+      "length": 21,
+      "value": "\"disabledTextDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1547,
+      "length": 24,
+      "value": "\"focusBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1638,
+      "length": 20,
+      "value": "\"focusBorderDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1721,
+      "length": 16,
+      "value": "\"forgetPassword\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1801,
+      "length": 17,
+      "value": "\"grayBackground1\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1882,
+      "length": 17,
+      "value": "\"grayBackground2\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1963,
+      "length": 17,
+      "value": "\"grayBackground3\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2048,
+      "length": 21,
+      "value": "\"grayscaleText2light\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2134,
+      "length": 18,
+      "value": "\"greenBackground2\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2211,
+      "length": 12,
+      "value": "\"greenText2\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2297,
+      "length": 27,
+      "value": "\"negativeBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2394,
+      "length": 23,
+      "value": "\"negativeBorderDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2485,
+      "length": 21,
+      "value": "\"negativeIconDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2574,
+      "length": 21,
+      "value": "\"negativeTextDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2661,
+      "length": 19,
+      "value": "\"orangeBackground2\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2740,
+      "length": 13,
+      "value": "\"orangeText2\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2827,
+      "length": 27,
+      "value": "\"positiveBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2922,
+      "length": 21,
+      "value": "\"positiveIconDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3016,
+      "length": 26,
+      "value": "\"primaryBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3111,
+      "length": 22,
+      "value": "\"primaryBorderDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3204,
+      "length": 24,
+      "value": "\"primaryInvertedDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3295,
+      "length": 20,
+      "value": "\"primaryTextDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3378,
+      "length": 16,
+      "value": "\"redBackground2\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3451,
+      "length": 10,
+      "value": "\"redText2\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3536,
+      "length": 28,
+      "value": "\"secondaryBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3635,
+      "length": 24,
+      "value": "\"secondaryBorderDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3728,
+      "length": 22,
+      "value": "\"secondaryIconDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3819,
+      "length": 22,
+      "value": "\"secondaryTextDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3915,
+      "length": 27,
+      "value": "\"selectedBackgroundPrimary\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4010,
+      "length": 21,
+      "value": "\"selectedIconPrimary\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4101,
+      "length": 23,
+      "value": "\"selectedIconSecondary\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4192,
+      "length": 21,
+      "value": "\"selectedTextPrimary\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4287,
+      "length": 27,
+      "value": "\"tertiaryBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4371,
+      "length": 10,
+      "value": "\"dimmedBg\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4448,
+      "length": 20,
+      "value": "\"secondaryTextHover\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4541,
+      "length": 26,
+      "value": "\"tertiaryBackgroundActive\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4638,
+      "length": 24,
+      "value": "\"selectedBorderPrimary1\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4732,
+      "length": 23,
+      "value": "\"selectedTextSecondary\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4835,
+      "length": 33,
+      "value": "\"primaryInverseBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 4928,
+      "length": 12,
+      "value": "\"captureBtn\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5112,
+      "length": 3,
+      "value": "844"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/Constants\/UIConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5162,
+      "length": 3,
+      "value": "390"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Common\/constants.swift",
@@ -10267,6 +10447,90 @@
       "value": "\"com.synapse-analytics.doxter-ekyc-sdk\""
     },
     {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Button.swift",
+      "kind": "BooleanLiteral",
+      "offset": 527,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Button.swift",
+      "kind": "BooleanLiteral",
+      "offset": 578,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Button.swift",
+      "kind": "StringLiteral",
+      "offset": 2928,
+      "length": 13,
+      "value": "\"hello world\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Button.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3029,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Input.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Input.swift",
+      "kind": "StringLiteral",
+      "offset": 554,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Input.swift",
+      "kind": "StringLiteral",
+      "offset": 603,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Input.swift",
+      "kind": "BooleanLiteral",
+      "offset": 650,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Input.swift",
+      "kind": "BooleanLiteral",
+      "offset": 699,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/Input.swift",
+      "kind": "BooleanLiteral",
+      "offset": 732,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/RadioButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1650,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/Common\/RadioButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1667,
+      "length": 4,
+      "value": "true"
+    },
+    {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/EdgeBorder.swift",
       "kind": "IntegerLiteral",
       "offset": 836,
@@ -10276,14 +10540,14 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/InstructionsList.swift",
       "kind": "Array",
-      "offset": 1219,
+      "offset": 1202,
       "length": 89,
       "value": "[\"card_instruction_1\", \"card_instruction_1\", \"card_instruction_3\", \"card_instruction_4\"]"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/InstructionsList.swift",
       "kind": "StringLiteral",
-      "offset": 1321,
+      "offset": 1304,
       "length": 2,
       "value": "\"\""
     },
@@ -10346,350 +10610,350 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "BooleanLiteral",
-      "offset": 429,
+      "offset": 412,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 806,
+      "offset": 789,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 810,
+      "offset": 793,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 814,
+      "offset": 797,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 865,
+      "offset": 848,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 869,
+      "offset": 852,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 874,
+      "offset": 857,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 924,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
       "offset": 941,
       "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
-      "kind": "IntegerLiteral",
-      "offset": 958,
-      "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1066,
+      "offset": 1049,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1168,
+      "offset": 1151,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1215,
+      "offset": 1198,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1249,
+      "offset": 1232,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1279,
+      "offset": 1262,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1405,
+      "offset": 1388,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1427,
+      "offset": 1410,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1463,
+      "offset": 1446,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1496,
+      "offset": 1479,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1687,
+      "offset": 1670,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1709,
+      "offset": 1692,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1818,
+      "offset": 1801,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "StringLiteral",
-      "offset": 1995,
+      "offset": 1978,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "BooleanLiteral",
-      "offset": 2327,
+      "offset": 2310,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 2591,
+      "offset": 2574,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 2937,
+      "offset": 2920,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 3077,
+      "offset": 3060,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "FloatLiteral",
-      "offset": 3144,
+      "offset": 3127,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 3158,
+      "offset": 3141,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 3164,
+      "offset": 3147,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "FloatLiteral",
-      "offset": 3170,
+      "offset": 3153,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 4051,
+      "offset": 4034,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/OTPInputField.swift",
       "kind": "IntegerLiteral",
-      "offset": 6855,
+      "offset": 6838,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenHeader.swift",
       "kind": "BooleanLiteral",
-      "offset": 239,
+      "offset": 222,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 298,
+      "offset": 281,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 323,
+      "offset": 306,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 1947,
+      "offset": 1930,
       "length": 33,
       "value": "\"Default - Scrollable, No Footer\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 2017,
+      "offset": 2000,
       "length": 17,
       "value": "\"Default content\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 2054,
+      "offset": 2037,
       "length": 24,
       "value": "\"Scrollable with Footer\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2112,
+      "offset": 2095,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2130,
+      "offset": 2113,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 2151,
+      "offset": 2134,
       "length": 32,
       "value": "\"Scrollable content with footer\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 2203,
+      "offset": 2186,
       "length": 28,
       "value": "\"Non-scrollable with Footer\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2265,
+      "offset": 2248,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2284,
+      "offset": 2267,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 2305,
+      "offset": 2288,
       "length": 36,
       "value": "\"Non-scrollable content with footer\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 2361,
+      "offset": 2344,
       "length": 27,
       "value": "\"Non-scrollable, No Footer\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2422,
+      "offset": 2405,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2441,
+      "offset": 2424,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/ScreenWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 2463,
+      "offset": 2446,
       "length": 39,
       "value": "\"Non-scrollable content without footer\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/components\/SDKScreenHeader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1466,
+      "offset": 1449,
       "length": 4,
       "value": "true"
     },
@@ -10710,21 +10974,21 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Core\/SdkSwiftUIView.swift",
       "kind": "StringLiteral",
-      "offset": 209,
+      "offset": 210,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Core\/SdkSwiftUIView.swift",
       "kind": "StringLiteral",
-      "offset": 222,
+      "offset": 223,
       "length": 9,
       "value": "\"synapse\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/Core\/SdkSwiftUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 274,
+      "offset": 275,
       "length": 5,
       "value": "false"
     },
@@ -10752,119 +11016,119 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/AccessDigitalIdentity\/AccessDigitalIdentityScreen.swift",
       "kind": "StringLiteral",
-      "offset": 218,
+      "offset": 201,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/AccessDigitalIdentity\/AccessDigitalIdentityScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 257,
+      "offset": 240,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CardInstructions\/Views\/SVGHelperBox.swift",
       "kind": "IntegerLiteral",
-      "offset": 1467,
+      "offset": 1450,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CardInstructions\/InstructionsScreen.swift",
       "kind": "StringLiteral",
-      "offset": 168,
+      "offset": 169,
       "length": 11,
       "value": "\"EYE_BLINK\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CardInstructions\/InstructionsScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 191,
+      "offset": 192,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CardInstructions\/InstructionsScreen.swift",
       "kind": "StringLiteral",
-      "offset": 228,
+      "offset": 229,
       "length": 11,
       "value": "\"LOOK_LEFT\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CardInstructions\/InstructionsScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 251,
+      "offset": 252,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CardInstructions\/InstructionsScreen.swift",
       "kind": "StringLiteral",
-      "offset": 288,
+      "offset": 289,
       "length": 12,
       "value": "\"LOOK_RIGHT\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CardInstructions\/InstructionsScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 312,
+      "offset": 313,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CardInstructions\/InstructionsScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 482,
+      "offset": 483,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/ConfirmIdentityScreen\/ConfirmIdentityScreen.swift",
       "kind": "BooleanLiteral",
+      "offset": 192,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/ConfirmIdentityScreen\/ConfirmIdentityScreen.swift",
+      "kind": "StringLiteral",
+      "offset": 232,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CreateDigitalIdentityPassword\/Views\/PasswordForm.swift",
+      "kind": "StringLiteral",
       "offset": 209,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/ConfirmIdentityScreen\/ConfirmIdentityScreen.swift",
-      "kind": "StringLiteral",
-      "offset": 249,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CreateDigitalIdentityPassword\/Views\/PasswordForm.swift",
       "kind": "StringLiteral",
-      "offset": 226,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CreateDigitalIdentityPassword\/Views\/PasswordForm.swift",
-      "kind": "StringLiteral",
-      "offset": 278,
+      "offset": 261,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CreateDigitalIdentityPassword\/Views\/PasswordForm.swift",
       "kind": "BooleanLiteral",
-      "offset": 325,
+      "offset": 308,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CreateDigitalIdentityPassword\/Views\/PasswordForm.swift",
       "kind": "BooleanLiteral",
-      "offset": 382,
+      "offset": 365,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/CreateDigitalIdentityPassword\/Views\/PasswordForm.swift",
       "kind": "BooleanLiteral",
-      "offset": 440,
+      "offset": 423,
       "length": 5,
       "value": "false"
     },
@@ -10885,175 +11149,175 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 368,
+      "offset": 351,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 425,
+      "offset": 408,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17098,
+      "offset": 17081,
       "length": 17,
       "value": "\"sample-uuid-123\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17132,
+      "offset": 17115,
       "length": 22,
       "value": "\"john.doe@example.com\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17177,
+      "offset": 17160,
       "length": 13,
       "value": "\"+1234567890\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17238,
+      "offset": 17221,
       "length": 6,
       "value": "\"John\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17270,
+      "offset": 17253,
       "length": 13,
       "value": "\"Michael Doe\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17305,
+      "offset": 17288,
       "length": 16,
       "value": "\"12345678901234\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17339,
+      "offset": 17322,
       "length": 6,
       "value": "\"Male\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17368,
+      "offset": 17351,
       "length": 19,
       "value": "\"Software Engineer\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17438,
+      "offset": 17421,
       "length": 8,
       "value": "\"Single\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17491,
+      "offset": 17474,
       "length": 11,
       "value": "\"Christian\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17525,
+      "offset": 17508,
       "length": 7,
       "value": "\"Cairo\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17548,
+      "offset": 17531,
       "length": 11,
       "value": "\"Nasr City\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17577,
+      "offset": 17560,
       "length": 17,
       "value": "\"123 Main Street\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17615,
+      "offset": 17598,
       "length": 12,
       "value": "\"1990-01-15\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17650,
+      "offset": 17633,
       "length": 12,
       "value": "\"2020-01-01\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17684,
+      "offset": 17667,
       "length": 12,
       "value": "\"2030-01-01\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17720,
+      "offset": 17703,
       "length": 11,
       "value": "\"ABC123456\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17767,
+      "offset": 17750,
       "length": 31,
       "value": "\"https:\/\/example.com\/front.jpg\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17833,
+      "offset": 17816,
       "length": 30,
       "value": "\"https:\/\/example.com\/back.jpg\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/DigitalIdentityData\/DigitalIdentityDataScreen.swift",
       "kind": "StringLiteral",
-      "offset": 17884,
+      "offset": 17867,
       "length": 30,
       "value": "\"https:\/\/example.com\/face.jpg\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/Instructions\/DocumentsInstructions\/Views\/InstructionsGrid\/InstructionIcon.swift",
       "kind": "StringLiteral",
-      "offset": 760,
+      "offset": 743,
       "length": 6,
       "value": "\"card\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/Instructions\/DocumentsInstructions\/Views\/InstructionsGrid\/InstructionItem.swift",
       "kind": "StringLiteral",
-      "offset": 837,
+      "offset": 820,
       "length": 15,
       "value": "\"instruction_1\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/Instructions\/DocumentsInstructions\/Views\/InstructionsGrid\/InstructionItem.swift",
       "kind": "StringLiteral",
-      "offset": 874,
+      "offset": 857,
       "length": 6,
       "value": "\"card\""
     },
@@ -11088,7 +11352,7 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/Instructions\/DocumentsInstructions\/Views\/RequiredDocumentsSection.swift",
       "kind": "Array",
-      "offset": 226,
+      "offset": 209,
       "length": 2,
       "value": "[]"
     },
@@ -11151,35 +11415,35 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/OTPScreen\/Views\/OTPActionButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 310,
+      "offset": 293,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/OTPScreen\/Views\/OTPActionButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 345,
+      "offset": 328,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/OTPScreen\/Views\/OTPActionButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 385,
+      "offset": 368,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/OTPScreen\/Views\/OTPActionButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 425,
+      "offset": 408,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/OTPScreen\/Views\/OTPActionButtons.swift",
       "kind": "IntegerLiteral",
-      "offset": 2152,
+      "offset": 2135,
       "length": 2,
       "value": "30"
     },
@@ -11214,63 +11478,63 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/ConfirmationScreen.swift",
       "kind": "Dictionary",
-      "offset": 171,
+      "offset": 154,
       "length": 340,
       "value": "[(\"Egyptian National ID Back Side\", \"document_scanner_back_confirm_title\"), (\"Egyptian National ID Front Side\", \"document_scanner_front_confirm_title\"), (\"Confirmation_Egyptian National ID Back Side\", \"document_scanner_back_confirm_title\"), (\"Confirmation_Egyptian National ID Front Side\", \"document_scanner_front_confirm_title\")]"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/ConfirmScannedDocuments.swift",
       "kind": "Dictionary",
-      "offset": 178,
+      "offset": 161,
       "length": 142,
       "value": "[(\"Egyptian National ID Back Side\", \"document_scanner_back_title\"), (\"Egyptian National ID Front Side\", \"document_scanner_front_title\")]"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/LivenessDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 295,
+      "offset": 399,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/LivenessDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 379,
+      "offset": 483,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/LivenessDetection.swift",
       "kind": "BooleanLiteral",
-      "offset": 429,
+      "offset": 533,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/LivenessDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 469,
+      "offset": 573,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/ScannerScreen.swift",
       "kind": "Dictionary",
-      "offset": 174,
+      "offset": 157,
       "length": 142,
       "value": "[(\"Egyptian National ID Back Side\", \"document_scanner_back_title\"), (\"Egyptian National ID Front Side\", \"document_scanner_front_title\")]"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/ScannerScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 804,
+      "offset": 787,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/screens\/ScannerScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 832,
+      "offset": 815,
       "length": 2,
       "value": "44"
     },
@@ -11472,15 +11736,8 @@
     },
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/viewModels\/EkycVerificationViewModel.swift",
-      "kind": "Array",
-      "offset": 2120,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/viewModels\/EkycVerificationViewModel.swift",
       "kind": "Dictionary",
-      "offset": 2183,
+      "offset": 2040,
       "length": 3,
       "value": "[]"
     },
@@ -11501,7 +11758,7 @@
     {
       "filePath": "\/Users\/fouadmagdy\/projects\/work\/iOS\/Native Showcase App\/Doxter eKYC\/DoxterEkycSDK\/DoxterEkycSDK\/src\/views\/ErrorView.swift",
       "kind": "StringLiteral",
-      "offset": 817,
+      "offset": 800,
       "length": 7,
       "value": "\"error\""
     },
@@ -11557,364 +11814,385 @@
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1904,
+      "offset": 1872,
+      "length": 12,
+      "value": "\"captureBtn\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2068,
       "length": 28,
       "value": "\"dangerousBackgroundDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2108,
+      "offset": 2272,
       "length": 24,
       "value": "\"dangerousBorderDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2304,
+      "offset": 2468,
       "length": 22,
       "value": "\"dangerousTextDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2474,
+      "offset": 2638,
       "length": 10,
       "value": "\"dimmedBg\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2666,
+      "offset": 2830,
       "length": 27,
       "value": "\"disabledBackgroundDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2867,
+      "offset": 3031,
       "length": 23,
       "value": "\"disabledBorderDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3060,
+      "offset": 3224,
       "length": 21,
       "value": "\"disabledTextDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3257,
+      "offset": 3421,
       "length": 24,
       "value": "\"focusBackgroundDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3449,
+      "offset": 3613,
       "length": 20,
       "value": "\"focusBorderDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3629,
+      "offset": 3793,
       "length": 16,
       "value": "\"forgetPassword\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3807,
+      "offset": 3971,
       "length": 17,
       "value": "\"grayBackground1\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3986,
+      "offset": 4150,
       "length": 17,
       "value": "\"grayBackground2\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4165,
+      "offset": 4329,
       "length": 17,
       "value": "\"grayBackground3\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4346,
+      "offset": 4516,
+      "length": 21,
+      "value": "\"grayscaleText2light\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4701,
       "length": 18,
       "value": "\"greenBackground2\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4516,
+      "offset": 4871,
       "length": 12,
       "value": "\"greenText2\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4710,
+      "offset": 5065,
       "length": 27,
       "value": "\"negativeBackgroundDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4911,
+      "offset": 5266,
       "length": 23,
       "value": "\"negativeBorderDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5104,
+      "offset": 5459,
       "length": 21,
       "value": "\"negativeIconDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5295,
+      "offset": 5650,
       "length": 21,
       "value": "\"negativeTextDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5482,
+      "offset": 5837,
       "length": 19,
       "value": "\"orangeBackground2\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5655,
+      "offset": 6010,
       "length": 13,
       "value": "\"orangeText2\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5850,
+      "offset": 6205,
       "length": 27,
       "value": "\"positiveBackgroundDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6047,
+      "offset": 6402,
       "length": 21,
       "value": "\"positiveIconDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6248,
+      "offset": 6603,
       "length": 26,
       "value": "\"primaryBackgroundDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6446,
+      "offset": 6801,
       "length": 22,
       "value": "\"primaryBorderDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6644,
+      "offset": 7017,
+      "length": 33,
+      "value": "\"primaryInverseBackgroundDefault\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7226,
       "length": 24,
       "value": "\"primaryInvertedDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6836,
+      "offset": 7418,
       "length": 20,
       "value": "\"primaryTextDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7016,
+      "offset": 7598,
       "length": 16,
       "value": "\"redBackground2\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7180,
+      "offset": 7762,
       "length": 10,
       "value": "\"redText2\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7374,
+      "offset": 7956,
       "length": 28,
       "value": "\"secondaryBackgroundDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7578,
+      "offset": 8160,
       "length": 24,
       "value": "\"secondaryBorderDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7774,
+      "offset": 8356,
       "length": 22,
       "value": "\"secondaryIconDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7968,
+      "offset": 8550,
       "length": 22,
       "value": "\"secondaryTextDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8158,
+      "offset": 8740,
       "length": 20,
       "value": "\"secondaryTextHover\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8360,
+      "offset": 8942,
       "length": 27,
       "value": "\"selectedBackgroundPrimary\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8563,
+      "offset": 9145,
       "length": 24,
       "value": "\"selectedBorderPrimary1\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8757,
+      "offset": 9339,
       "length": 21,
       "value": "\"selectedIconPrimary\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8952,
+      "offset": 9534,
       "length": 23,
       "value": "\"selectedIconSecondary\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9145,
+      "offset": 9727,
       "length": 21,
       "value": "\"selectedTextPrimary\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9346,
+      "offset": 9922,
+      "length": 23,
+      "value": "\"selectedTextSecondary\""
+    },
+    {
+      "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10125,
       "length": 26,
       "value": "\"tertiaryBackgroundActive\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9554,
+      "offset": 10333,
       "length": 27,
       "value": "\"tertiaryBackgroundDefault\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9721,
-      "length": 6,
-      "value": "\"test\""
-    },
-    {
-      "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 10013,
+      "offset": 10646,
       "length": 9,
       "value": "\"bs_card\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10162,
+      "offset": 10795,
       "length": 6,
       "value": "\"card\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10317,
+      "offset": 10950,
       "length": 11,
       "value": "\"crop_Rect\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10473,
+      "offset": 11106,
       "length": 9,
       "value": "\"fs_card\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10624,
+      "offset": 11257,
       "length": 7,
       "value": "\"human\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10771,
+      "offset": 11404,
       "length": 6,
       "value": "\"lamp\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10925,
+      "offset": 11558,
       "length": 10,
       "value": "\"liveness\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11075,
+      "offset": 11708,
       "length": 6,
       "value": "\"moon\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11227,
+      "offset": 11860,
       "length": 9,
       "value": "\"scanner\""
     },
     {
       "filePath": "\/Users\/fouadmagdy\/Library\/Developer\/Xcode\/DerivedData\/DoxterEkycSDK-grksomnotcayusdbrmariqienslb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/DoxterEkycSDK\/IntermediateBuildFilesPath\/DoxterEkycSDK.build\/Release-iphonesimulator\/DoxterEkycSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11378,
+      "offset": 12011,
       "length": 7,
       "value": "\"words\""
     }

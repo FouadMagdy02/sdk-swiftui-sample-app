@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		44+jEK/q9AQHlRMB14EBin7hDZg=
+		g9FSreFlDFkolU4Crv7H25smuPw=
 		</data>
 		<key>Headers/DoxterEkycSDK.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0azfV/moc9v/ilybJlCQ7N81Zeo=
+		n6LIUI134a1M9apaflbOs2RPCZU=
 		</data>
 		<key>Inter-Bold.ttf</key>
 		<data>
@@ -26,43 +26,43 @@
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		aweBMcU3JDHZmyWRSlY3ADPbR7s=
+		V2FGj9vsTJpkU78y+kZwLdgiR4U=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		w4PJjdtSGkwrRxJjZhr330h3Cy4=
+		SNKbsyAyqcSMCznWIh1eZHu3va0=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		/VydwaFkCmXC3IaS1x6LsIQ3TyU=
+		Q4MF7yAdz6iouCa+hk4YKPToLDo=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		w4PJjdtSGkwrRxJjZhr330h3Cy4=
+		SNKbsyAyqcSMCznWIh1eZHu3va0=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		m6vr1gBDhdgfiJzDB1vzftl/D/I=
+		qg0MAn6e+JCvQ56rwArqM4aZglA=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		aweBMcU3JDHZmyWRSlY3ADPbR7s=
+		V2FGj9vsTJpkU78y+kZwLdgiR4U=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		VWXsTUgkTV19p/QYx0TwhbJlC/g=
+		d9mv6ViiByp22NUYKBRT7Eiyu+M=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		pxW5h4jSJzLO2l90ze1wHdxGZRw=
+		lrpgcD9pMzaqWRXwD/W1Ap5dLd0=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VWXsTUgkTV19p/QYx0TwhbJlC/g=
+		d9mv6ViiByp22NUYKBRT7Eiyu+M=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zPZy21d3242iCUfEXaSiU4jL0nY=
+		ghqhFy3fYbCCqpf5arzokyU4yGs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			158Oa2lwqbZP2NTwKWi2cfjitR8L0fShNvGOAjgUYY0=
+			ZvuPmZP8bui4ZmvLtnJmNhVkb3t8KX0asC6cg8JIs2k=
 			</data>
 		</dict>
 		<key>Headers/DoxterEkycSDK.h</key>
@@ -121,70 +121,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NveHaQ7L8XyYB9YtUJfN0awEhlyDJW9DoxLYjQQ0e/o=
+			X2A4cjOoxMvpKPfdHaM7Rx/+NXo8bmRcbrCL9d1EMW4=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AveD7RopxG9O3M3nm1j8gK3Pytdxgcacfxoip29WM6E=
+			FEK12Pnmrz7sq9ADpXVbJRp229aABY9aipRTTULevmA=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u5LQpHka8y32aL4LDfUxY7WNGqQF+pDEhS96pAEJp9M=
+			LCIXCNkVStMs88mf2eut028jejQx02jwqArWLsR3HvU=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AveD7RopxG9O3M3nm1j8gK3Pytdxgcacfxoip29WM6E=
+			FEK12Pnmrz7sq9ADpXVbJRp229aABY9aipRTTULevmA=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rLrG//uSUgVREIM5VySQJDDq/vH971dlrOr7Tw03Xbs=
+			KfFQnYU9GqArhqKz7ltdTWVpVkH6YV3AP+kT7b9cJuw=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NveHaQ7L8XyYB9YtUJfN0awEhlyDJW9DoxLYjQQ0e/o=
+			X2A4cjOoxMvpKPfdHaM7Rx/+NXo8bmRcbrCL9d1EMW4=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xprvpwCegLQOzgvKc8/oys3XvJuNKpqXc7VG4OY03Hg=
+			Np40zAHFr5UTrEqSh+E+qdhCfbzDnsM9Lsb+/e+lT+s=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iD7vUT551gFfdA9OOcYtOpGgL/oQc1kk35GHoWR1A/4=
+			6EvIiRyPxrYCiwkr2RrY3MfU+6Mah2jQwruqX/k394M=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xprvpwCegLQOzgvKc8/oys3XvJuNKpqXc7VG4OY03Hg=
+			Np40zAHFr5UTrEqSh+E+qdhCfbzDnsM9Lsb+/e+lT+s=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RfadFVgGRBWhsNjbw0Ck1wiMRaKbUkXX76mBBFf/VzI=
+			GNpLn+vMLODbjCw3YXXNSmuivwwqONiF0GXFD2FMkWM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
