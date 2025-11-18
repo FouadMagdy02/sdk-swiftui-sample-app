@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		g9FSreFlDFkolU4Crv7H25smuPw=
+		5liqL1pe1B0kR7z70ZCu5bxO6/c=
 		</data>
 		<key>Headers/DoxterEkycSDK.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qg0MAn6e+JCvQ56rwArqM4aZglA=
+		isSccmV0WabCJDHxD1PzwDkrHpw=
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ghqhFy3fYbCCqpf5arzokyU4yGs=
+		I/YcehzFSysUYnH0y+CQSYL4IkE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZvuPmZP8bui4ZmvLtnJmNhVkb3t8KX0asC6cg8JIs2k=
+			mr8heYBzad2GbiZolAF/v6yqw8UG1lZht0+Ppv1GKsk=
 			</data>
 		</dict>
 		<key>Headers/DoxterEkycSDK.h</key>
@@ -149,7 +149,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KfFQnYU9GqArhqKz7ltdTWVpVkH6YV3AP+kT7b9cJuw=
+			DZFyOwGK+O1JQkeyf3FwyiNE4xFXS7dl8RbTEnEhYhg=
 			</data>
 		</dict>
 		<key>Modules/DoxterEkycSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -184,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GNpLn+vMLODbjCw3YXXNSmuivwwqONiF0GXFD2FMkWM=
+			XDhOeCEW48SwhS9ZVAguBLR2vijfvJds+52msQgJ+9E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
